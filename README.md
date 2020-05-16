@@ -22,7 +22,8 @@ npm install uglify-es
 npm install js-beautify
 ```
 
-# node wuWxapkg.js  test.wxapkg
+# 使用简介
+node wuWxapkg.js  test.wxapkg
 缺少啥包npm install xxxxxx
 
 # 分包功能
@@ -45,5 +46,3 @@ TIP
 │       ├── app.json
 ```
 
-# 公众号
-![image](/geek_road.jpg)
