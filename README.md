@@ -22,6 +22,9 @@ npm install uglify-es
 npm install js-beautify
 ```
 
+# node wuWxapkg.js  test.wxapkg
+缺少啥包npm install xxxxxx
+
 # 分包功能
 
 当检测到 wxapkg 为子包时, 添加-s 参数指定主包源码路径即可自动将子包的 wxss,wxml,js 解析到主包的对应位置下. 完整流程大致如下: 
